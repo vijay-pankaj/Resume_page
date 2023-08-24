@@ -1,0 +1,120 @@
+.v{
+	box-shadow: 16px 14px 20px;
+	background-color: #0000008c;
+	border-radius: 10px;
+	overflow: hidden;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	color: red;
+	width: 100%;
+	justify-content: space-around;
+}
+body{
+	background-color: lightskyblue;
+}
+h1{
+	color:gold;
+}
+.link{
+	display: flex;
+	justify-content: space-around;
+	color: blue;
+	padding-top: 30px;
+}
+.insta{
+	box-shadow: 16px 14px 20px;
+	border-radius: 10px;
+}
+.yt{
+	box-shadow: 16px 14px 20px;
+	border-radius: 10px;
+}
+h3{
+	color: black;
+}
+.insta:hover{
+	color: gold;
+}
+.yt:hover{
+	color: gold;
+}
+.linkedin:hover{
+	color: gold;
+}
+.linkedin{
+	box-shadow: 16px 14px 20px;
+	border-radius: 10px;
+}
+.github{
+	box-shadow: 16px 14px 20px;
+	border-radius: 10px;
+}
+.github:hover{
+	color: gold;
+}
+img{
+	box-shadow: 16px 14px 20px;
+	margin-top: 40px;
+	border-radius: 50%;
+}
+.pic{
+	display: flex;
+
+}
+h4{
+	margin-left: -10px;
+	margin-top: 80px;
+}
+p{
+
+	margin-left: 10px;
+	margin-top: -10px;
+	text-transform: uppercase;
+	text-shadow: 2px 2px 4px gold;
+}
+h5{
+	margin-top: -5px;
+	margin-left: 20px;
+	text-transform: uppercase;
+}
+ul{
+	margin-top: -5px;
+	margin-left: -40px;
+	text-transform: uppercase;
+}
+.proskills{
+	/*display: flex;*/
+	justify-content: space-around;
+	height: 150px;
+	width: 100%;
+}
+button{
+	margin-left: 20px;
+	margin-top: 30px;
+	width: 200px;
+	height: 50px;
+	background-color: lightskyblue;
+	border-radius: 10px;
+	box-shadow: 10px 14px 12px;
+}
+ul{
+	margin-top: 15px;
+	margin-left: 40px;
+}
+footer{
+	border: 2px solid black;
+	display: flex;
+	justify-content: center;
+	margin-top:20px;
+	border-radius: 10px;
+}
+.inst{
+	display: flex;
+	justify-content: center;
+    color: black;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: -5px;
+}
